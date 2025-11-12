@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-nothing yet
-=======
-# Cali_Housing_Price_Predictor
->>>>>>> 3edd3eed53cceccf8d963390a7b21a3195932cf4
+This project demonstrates a modern TensorFlow/Keras regression workflow using the California Housing dataset.
+It compares the Sequential API and Functional API, uses callbacks for checkpointing and early stopping, and saves all models to a dedicated models/ folder.
